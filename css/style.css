@@ -1,0 +1,19 @@
+body{
+	text-align: center;
+}
+img{
+	width: 60%;
+	height: auto;
+}
+nav a {
+	font-size: 30px;
+}
+div{
+	background-color: skyblue;
+}
+div3{
+	background-color: skyblue;
+}
+div1{
+	background-color: yellowgreen;
+}
